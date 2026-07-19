@@ -1,0 +1,4 @@
+# Runtime data directory
+#
+# reports.db is created automatically by the server on first start.
+# It is excluded from version control via .gitignore.
